@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 from scipy import stats
 import pandas as pd
 
-# Pınar Süngü - 2019705072
 
 # Following k_means class is taken from: https://github.com/psungu/Cmpe462-Project3
 
